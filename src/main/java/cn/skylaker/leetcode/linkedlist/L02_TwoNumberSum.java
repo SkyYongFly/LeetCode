@@ -12,7 +12,6 @@ import org.junit.jupiter.api.Test;
  原因：342 + 465 = 807
  */
 public class L02_TwoNumberSum {
-
     @Test
     public void test(){
         ListNode n1 = new ListNode(2);
